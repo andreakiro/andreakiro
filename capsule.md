@@ -1,10 +1,10 @@
 # Memento dump
 
-Currently doing ML research at MIT, graduated from ETH Zurich and EPFL
+Currently doing ML research at MIT (CBMM), graduated from ETH Zurich and EPFL
 
 — I am interested in theoretical ML research, RL, LLMs engineering and optimization
 <br>— I sometimes contribute and open pull requests on large open source projects that I use
-<br>— I also interned at IBM Research, Amazon, Delimobil and worked for Audemars Piguet
+<br>— I also interned at [IBM Research](https://research.ibm.com/labs/zurich), [Amazon](https://www.amazon.com/), [Delimobil](https://delimobil.ru/) and contracted for [Audemars Piguet](https://www.audemarspiguet.com/com/en/home.html)
 <br>— I shoot analog pictures with an olympus mju i, love cinema, vinyls, and coffee
 
 # Things we've built with friends
