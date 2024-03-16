@@ -10,9 +10,10 @@ Currently doing ML research at MIT (CBMM), graduated from ETH Zurich and EPFL
 # Things we've built with friends
 
 — A PII detection API and a nice ChatGPT secure chrome extension with [Filtro](https://www.filtro.ai/)
-<br>— A (somewhat voice preserving) speech to speech translation system with [straqen](https://www.straqen.ai/) (down)
-<br>— A travel companion generating cripsy podcast of landmarks you visit with [yoksaa](https://github.com/yoksaa) (down)
-<br>— A calendar management software similar to cal.com back in 2019 with [calendit](https://github.com/calendit/) (down)
+<br>— A RAG to chat locally with your documents on cpu with [chatlib](https://www.chatlib.co)
+<br>— A (somewhat voice preserving) speech to speech translation system with [straqen](https://www.straqen.ai/)
+<br>— A travel companion generating cripsy podcast of landmarks you visit with [yoksaa](https://github.com/yoksaa)
+<br>— A calendar management software similar to cal.com back in 2019 with [calendit](https://github.com/calendit/)
 
 # Academia research
 
