@@ -7,13 +7,34 @@ Currently doing ML research at MIT (CBMM), graduated from ETH Zurich and EPFL
 <br>— I also interned at [IBM Research](https://research.ibm.com/labs/zurich), [Amazon](https://www.amazon.com/), [Delimobil](https://delimobil.ru/) and contracted for [Audemars Piguet](https://www.audemarspiguet.com/com/en/home.html)
 <br>— I shoot analog pictures with an olympus mju i, love cinema, vinyls, and coffee
 
-# Things we've built with friends
+# Things built from scratch
 
 — A PII detection API and a nice ChatGPT secure chrome extension with [Filtro](https://www.filtro.ai/)
 <br>— A RAG to chat locally with your documents on cpu with [chatlib](https://www.chatlib.co)
 <br>— A (somewhat voice preserving) speech to speech translation system with [straqen](https://www.straqen.ai/)
 <br>— A travel companion generating cripsy podcast of landmarks you visit with [yoksaa](https://github.com/yoksaa)
 <br>— A calendar management software similar to cal.com back in 2019 with [calendit](https://github.com/calendit/)
+
+# Cute little projects
+
+— **pytorch-symnet** a tool for symbolic analysis of deep neural networks in pytorch [[github]](https://github.com/andreakiro/symnet)
+<br>— **stable-baselines3-rum** sb3 fork to support async computation for rum project [[github]](https://github.com/andreakiro/stable-baselines3-rum)
+<br>— **homebrew-arxiv2latex** script to download latex of arXiv files with a Homebrew tap [[github]](https://github.com/andreakiro/homebrew-arxiv2latex/)
+<br>— **hessian-thing** another fork of repo to optimize hessian calculation in pytorch [[github]](https://github.com/andreakiro/pytorch-hessian-eigenthings)
+<br>— **pytorch-hessian** fork of repo to optimize hessian calculation in pytorch [[github]](https://github.com/andreakiro/pyhessian)
+<br>— **python-keyenv** micro tool for effortless secret keys management in python [[github]](https://github.com/andreakiro/python-keyenv)
+
+# Opensource contributions
+
+I opened/closed PRs or been active on issues chats on;
+
+— [PrivateGPT](https://github.com/imartinez/privateGPT); Privacy friendly LLM documents interactions
+<br>— [llama-cpp-python](https://github.com/abetlen/llama-cpp-python); Python bindings and API for llama.cpp
+<br>— [Langchain](https://github.com/langchain-ai/langchain); Buildings apps with compositional LLM calls
+<br>— [python-llm](https://github.com/danielgross/python-llm-archive); Cross-service LLM mini API for Python
+<br>— [geomstats](https://github.com/geomstats/geomstats); Computations on Riemannian manifolds
+<br>— [darts](https://github.com/unit8co/darts); Python user-friendly forecasting on time series
+<br>— [tsai](https://github.com/timeseriesAI/tsai); Time series and sequences in Pytorch
 
 # Academia research
 
@@ -51,27 +72,6 @@ Currently doing ML research at MIT (CBMM), graduated from ETH Zurich and EPFL
 <br>— Hybrid deep learning for time series R0 forecast for COVID-19 pandemic.
 <br>— Model hosted on interactive web-based ReactJS platform to allow simulations.
 <br>— ML and Optimization Laboratory EPFL. Co-authors: M-A. Hartley, M. Jaggi.
-
-# Cute little projects
-
-— **pytorch-symnet** a tool for symbolic analysis of deep neural networks in pytorch [[github]](https://github.com/andreakiro/symnet)
-<br>— **stable-baselines3-rum** sb3 fork to support async computation for rum project [[github]](https://github.com/andreakiro/stable-baselines3-rum)
-<br>— **homebrew-arxiv2latex** script to download latex of arXiv files with a Homebrew tap [[github]](https://github.com/andreakiro/homebrew-arxiv2latex/)
-<br>— **hessian-thing** another fork of repo to optimize hessian calculation in pytorch [[github]](https://github.com/andreakiro/pytorch-hessian-eigenthings)
-<br>— **pytorch-hessian** fork of repo to optimize hessian calculation in pytorch [[github]](https://github.com/andreakiro/pyhessian)
-<br>— **python-keyenv** micro tool for effortless secret keys management in python [[github]](https://github.com/andreakiro/python-keyenv)
-
-# Opensource contributions
-
-I opened/closed PRs or been active on issues chats on;
-
-— [PrivateGPT](https://github.com/imartinez/privateGPT); Privacy friendly LLM documents interactions
-<br>— [llama-cpp-python](https://github.com/abetlen/llama-cpp-python); Python bindings and API for llama.cpp
-<br>— [Langchain](https://github.com/langchain-ai/langchain); Buildings apps with compositional LLM calls
-<br>— [python-llm](https://github.com/danielgross/python-llm-archive); Cross-service LLM mini API for Python
-<br>— [geomstats](https://github.com/geomstats/geomstats); Computations on Riemannian manifolds
-<br>— [darts](https://github.com/unit8co/darts); Python user-friendly forecasting on time series
-<br>— [tsai](https://github.com/timeseriesAI/tsai); Time series and sequences in Pytorch
 
 # University projects
 
