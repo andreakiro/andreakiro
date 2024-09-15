@@ -8,5 +8,5 @@
     \|__|\|__|\|__| \|__|\|_______|\|__|\|__|\|_______|\|__|\|__|\|__| \|__|\|__|\|__|\|__|\|_______|
 ```
 
-\* i've worked on many cool stuff so far; see this [non-exhaustive capsule](/capsule.md) to read more (very sporadic updates)
-<br> \* Based in Boston right now. Previously lived in Zürich, Paris, Moscow and Lausanne for work and/or studies
+\* Enjoy building cool ML stuff, shoot analog pictures, love cinema, vinyl and coffee.
+<br> \* Based in Europe. Previously lived in Boston, Zürich, Paris, Moscow and Lausanne.
