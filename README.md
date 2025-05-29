@@ -9,4 +9,4 @@
 ```
 
 \* Enjoy building cool ML stuff, shoot analog pictures, love cinema, vinyl and coffee.
-<br> \* Based in Europe. Previously lived in Boston, Zürich, Paris, Moscow and Lausanne.
+<br> \* Based in San Francisco. Previously lived in Boston, Zürich, Paris, Moscow and Lausanne.
